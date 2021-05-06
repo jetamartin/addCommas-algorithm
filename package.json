@@ -1,0 +1,14 @@
+{
+  "name": "addcommas",
+  "version": "1.0.0",
+  "description": "Simple function to insert commas in the right place in a number and output a string of the number containing a comma.",
+  "main": "addCommas.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jet Martin",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
